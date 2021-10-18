@@ -11,7 +11,7 @@ export const projects = [
     title: "Air quality analysis",
     subtitle: "Python dashboard",
     description:
-      "We observed the pollution levels in Lombardia (Italy) from 2006 to 2018. We decided to study both the relation between pollution and weather conditions and the relation between pollution and deseases. We made a dashboard using Plotly, a powerful Python module.",
+      "We observed the pollution levels in Lombardia (Italy) from 2006 to 2018 and decided to study both the relation between pollution and weather conditions and the relation between pollution and deseases. We made a dashboard using Plotly, a powerful Python module. The project was used to explain how the pollution can negatively affect our lives.",
     image: "environment.png",  
     link: "https://github.com/prometheus404/sci-vis-project",
   },
