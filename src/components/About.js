@@ -12,13 +12,6 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             I was born in Italy near Milan in 1998. I have always been intrigued by the world of computers, in fact I studied computer science in both high school and university. I graduated in computer science in 2021 and I'm currently attending a master's degree program in cyber security.
           </p>
-          <div className="flex justify-center">
-            <a
-              href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
-            </a>
-          </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
